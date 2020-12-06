@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		54103715257D78BB00138BFA /* FormLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54103714257D78BB00138BFA /* FormLabelView.swift */; };
+		54103718257D812C00138BFA /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54103717257D812C00138BFA /* ImagePicker.swift */; };
 		54D2F55E257314CC00A0513A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D2F55D257314CC00A0513A /* AppDelegate.swift */; };
 		54D2F560257314CC00A0513A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D2F55F257314CC00A0513A /* SceneDelegate.swift */; };
 		54D2F562257314CC00A0513A /* HypedListTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D2F561257314CC00A0513A /* HypedListTabView.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		54103714257D78BB00138BFA /* FormLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormLabelView.swift; sourceTree = "<group>"; };
+		54103717257D812C00138BFA /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		54D2F55A257314CC00A0513A /* HypedList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HypedList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		54D2F55D257314CC00A0513A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		54D2F55F257314CC00A0513A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				54D2F561257314CC00A0513A /* HypedListTabView.swift */,
 				54D2F571257316C400A0513A /* UpcomingView.swift */,
 				54D2F573257540A300A0513A /* CreateHypedEventView.swift */,
+				54103717257D812C00138BFA /* ImagePicker.swift */,
 				54103714257D78BB00138BFA /* FormLabelView.swift */,
 				54D2F575257541C900A0513A /* HypedEvent.swift */,
 				54D2F563257314CE00A0513A /* Assets.xcassets */,
@@ -163,6 +166,7 @@
 				54D2F560257314CC00A0513A /* SceneDelegate.swift in Sources */,
 				54D2F576257541C900A0513A /* HypedEvent.swift in Sources */,
 				54103715257D78BB00138BFA /* FormLabelView.swift in Sources */,
+				54103718257D812C00138BFA /* ImagePicker.swift in Sources */,
 				54D2F572257316C400A0513A /* UpcomingView.swift in Sources */,
 				54D2F562257314CC00A0513A /* HypedListTabView.swift in Sources */,
 			);
